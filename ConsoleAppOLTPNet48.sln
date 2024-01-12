@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOLTPNet48", "ConsoleAppOLTPNet48\ConsoleAppOLTPNet48.csproj", "{6CD15731-D5E8-4582-92DE-AC5ADE62C269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOnitoringNetStandard", "MOnitoringNetStandard\MOnitoringNetStandard.csproj", "{5BB64BE7-8BFA-408B-AFDB-EBD677E115EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD15731-D5E8-4582-92DE-AC5ADE62C269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD15731-D5E8-4582-92DE-AC5ADE62C269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD15731-D5E8-4582-92DE-AC5ADE62C269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD15731-D5E8-4582-92DE-AC5ADE62C269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB64BE7-8BFA-408B-AFDB-EBD677E115EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB64BE7-8BFA-408B-AFDB-EBD677E115EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB64BE7-8BFA-408B-AFDB-EBD677E115EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB64BE7-8BFA-408B-AFDB-EBD677E115EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7DA67B8-6310-48A6-B921-D2F055E010ED}
+	EndGlobalSection
+EndGlobal
